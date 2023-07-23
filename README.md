@@ -4,6 +4,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake.svg">
 </picture>
 
-<span><center>🤞欢迎访问我的Github主页<center><span>
+<center>🤞欢迎访问我的Github主页<center>
   
 _generated with [Platane/snk](https://github.com/Platane/snk)_
