@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&size=40&weight=450&height=80&color=BF13FF&lines=迷途漫漫，终有一归。;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
-### 📑 github贡献图
+
+### 📑github贡献图
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake.svg">
@@ -25,8 +26,6 @@
 - 🏆<kbd>ctrl</kbd>+<kbd>c</kbd>、<kbd>ctrl</kbd>+<kbd>v</kbd>高级CV工程师。
 - 🎮️喜欢玩王者荣耀。
 - 🐸单身好男人，会做饭，做家务，脾气好。
-
-
 
 ### 📔github日志
 
