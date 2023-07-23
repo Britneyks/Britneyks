@@ -1,6 +1,7 @@
 
-<span><center># `🙋 欢迎来到我的Github主页`</center></span>
+# `🙋 欢迎来到我的Github主页`
 
+### 🗨 对访客的一句话
 <h1 align="center">
   <a href="http://zifyu.top/">
     <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&size=40&weight=450&height=80&color=BF13FF&lines=迷途漫漫，终有一归。;console.log(%22Hello%EF%BC%8Cworld%22)">
