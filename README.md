@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://anzhiy.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=stxingkai&weight=600&size=40&pause=1000&color=00C7F7&multiline=true&width=435&height=60&lines=天空黑暗到一定程度，星辰就会熠熠生辉。——比尔德;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=stxingkai&color=00C7F7&lines=迷途漫漫，终有一归。;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 <picture>
@@ -9,5 +9,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake.svg">
 </picture>
 
-  
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
