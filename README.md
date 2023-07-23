@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&duration=4000&center=true&vCenter=true&multiline=true&size=40&weight=450&height=80&height=150&width=800&color=BF13FF&repeat=false&lines=迷途漫漫，终有一归。;----米兰·昆德拉%E3%80%8A不能承受的生命之轻%E3%80%8B" alt="Typing SVG" />
   </a>
 </h1>
-
+<br>
 
 ### 📑 github贡献图
 <picture>
@@ -18,8 +18,7 @@
 
 
 <div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
-
-
+<br>
 
 ### 🧑 自我介绍
 
@@ -30,7 +29,7 @@
 - 🏆<kbd>ctrl</kbd>+<kbd>c</kbd>、<kbd>ctrl</kbd>+<kbd>v</kbd>高级CV工程师。
 - 🎮️喜欢玩王者荣耀。
 - 🐸单身好男人，会做饭，做家务，脾气好。
-
+<br>
 
 ### 📔 github日志
 
