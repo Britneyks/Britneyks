@@ -34,11 +34,11 @@
 
 ### 📔 github日志
 
--  <span style="font-weight:bold">GitHub奖杯🏆</span> 
+-  `GitHub奖杯🏆`
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=britneyks&row=1&column=5&no-bg=true&theme=juicyfresh" /></div>
 
-- <span style="font-weight:bold">Github基础信息✉</span>
+- `Github基础信息✉`
 
   <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=britneyks&theme=dark&hide_border=true&locale=zh_Hans" />
