@@ -1,7 +1,5 @@
 
-<div  style="font-size:35px;font-weight:bold;text-align:center;">
-<span> 🙋 欢迎来到我的Github主页</span>
-</div>
+<center># `🙋 欢迎来到我的Github主页`</center>
 
 <h1 align="center">
   <a href="http://zifyu.top/">
