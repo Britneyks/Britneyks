@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://anzhiy.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=stxingkai&color=00C7F7&lines=迷途漫漫，终有一归。;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=stxingkai&size=40&weight=500&color=00C7F7&lines=迷途漫漫，终有一归。;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 <picture>
