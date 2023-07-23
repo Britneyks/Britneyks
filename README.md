@@ -4,7 +4,7 @@
 ### 🗨 对访客的一句话
 <h1 align="center">
   <a href="http://zifyu.top/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&size=40&weight=450&height=80&color=BF13FF&lines=迷途漫漫，终有一归。;----米兰·昆德拉  《不能承受的生命之轻》">
+    <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&duration=4000&pause=500&center=true&vCenter=true&multiline=true&size=40&weight=450&height=80&color=BF13FF&lines=迷途漫漫，终有一归。;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
