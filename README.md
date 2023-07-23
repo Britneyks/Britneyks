@@ -4,7 +4,7 @@
 ### 🗨 对访客的一句话
 <h1 align="center">
   <a href="http://zifyu.top/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&duration=4000&center=true&vCenter=true&multiline=true&size=40&weight=450&height=80&height=150&width=800&color=BF13FF&repeat=false&lines=迷途漫漫，终有一归。;----米兰·昆德拉%E3%80%8A不能承受的生命之轻%E3%80%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=stxingkai&duration=4000&center=true&vCenter=true&multiline=true&size=40&weight=450&height=80&height=150&width=800&color=BF13FF&repeat=false&lines=迷途漫漫，终有一归。;——————米兰·昆德拉%E3%80%8A不能承受的生命之轻%E3%80%8B" alt="Typing SVG" />
   </a>
 </h1>
 <br>
@@ -44,7 +44,7 @@
   </div>
 
 <div align="center">
-  <img height="157px" src="https://github-readme-stats.vercel.app/api?username=britneyks&show_icons=true&locale=cn&theme=radical" />
-  <img height="157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britneyks&layout=donut&locale=cn&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=britneyks&show_icons=true&locale=cn&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britneyks&layout=donut&locale=cn&theme=radical" />
 </div>
 
