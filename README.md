@@ -10,14 +10,15 @@
 <br>
 
 ### 📊 Github贡献图
+<h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 <div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+</h1>
 <br>
 
 ### 🧑 自我介绍
