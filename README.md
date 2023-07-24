@@ -9,7 +9,7 @@
 </h1>
 <br>
 
-### 📊 Github贡献图
+### 📔 Github贡献图
 <h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake-dark.svg">
@@ -33,7 +33,7 @@
 <h1></h1>
 <br>
 
-### 📔 Github日志
+### 📊 Github统计
 
 -  `GitHub奖杯🏆`
 
