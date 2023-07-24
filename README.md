@@ -41,7 +41,7 @@
 - `Github基础信息✉`
 
   <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=britneyks&theme=dark&hide_border=true&locale=zh_Hans" />
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=britneyks&theme=dark&hide_border=true&locale=zh_Hans" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britneyks&layout=donut&locale=cn&theme=radical" />
   </div>
 
