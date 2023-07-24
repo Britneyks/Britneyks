@@ -10,38 +10,13 @@
 <br>
 
 ### 🕮 自己很喜欢的一首诗
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-	<title>用HTML写一首诗</title>
-	<style type="text/css">
-    #poem{
-        width: 300px;
-        height: 200px;
-        margin: 0 auto;
-    	text-align: center;
-    	color: green;
-    	font-size: 20px;
- 
-         }
-    body{
-          background-image: url(../图片/timg.jpg);
-          background-attachment: fixed;
-         }
-	</style>
-</head>   
-<body>
-    <div id="poem">
+ <div id="poem">
           入若耶溪<br/><br/>
           艅艎何泛泛，空水共悠悠。<br/>
           阴霞生远岫，阳景逐回流。<br/>
           蝉噪林逾静，鸟鸣山更幽。<br/>
 	  此地动归念，长年悲倦游。<br/>
 	</div>
-</body>
-</html>
-
 
 ### 📊 Github贡献图
 <picture>
