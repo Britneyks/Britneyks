@@ -9,15 +9,6 @@
 </h1>
 <br>
 
-### 🕮 自己很喜欢的一首诗
- <div id="poem">
-          入若耶溪<br/><br/>
-          艅艎何泛泛，空水共悠悠。<br/>
-          阴霞生远岫，阳景逐回流。<br/>
-          蝉噪林逾静，鸟鸣山更幽。<br/>
-	  此地动归念，长年悲倦游。<br/>
-	</div>
-
 ### 📊 Github贡献图
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britneyks/britneyks/output/github-contribution-grid-snake-dark.svg">
