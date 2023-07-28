@@ -37,7 +37,8 @@
 -  `GitHub奖杯🏆`
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=britneyks&row=1&column=5&no-bg=true&theme=juicyfresh" /></div>
-
+<h1></h1>
+<br>
 - `Github基础信息✉`
 
   <div align="center">
