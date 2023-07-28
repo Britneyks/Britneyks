@@ -30,7 +30,7 @@
 - 🎮️喜欢玩王者荣耀。
 - 🐸单身好男人，会做饭，做家务，脾气好。
 <h1></h1>
-<br>
+<br></br>
 
 ### 📊 Github统计
 
@@ -38,7 +38,8 @@
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=britneyks&row=1&column=5&no-bg=true&theme=juicyfresh" /></div>
 <h1></h1>
-<br>
+<br></br>
+
 -  `Github基础信息✉`
 
   <div align="center">
