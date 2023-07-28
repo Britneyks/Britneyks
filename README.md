@@ -39,7 +39,7 @@
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=britneyks&row=1&column=5&no-bg=true&theme=juicyfresh" /></div>
 <h1></h1>
 <br>
-- `Github基础信息✉`
+-  `Github基础信息✉`
 
   <div align="center">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=britneyks&theme=dark&hide_border=true&locale=zh_Hans" />
